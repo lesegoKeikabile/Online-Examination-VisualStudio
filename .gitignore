@@ -1,0 +1,10 @@
+Step 1: Prepare Your Computer to Install SQL Server 2008 or later
+To prepare your computer for SQL Server 2008, review hardware and software requirements, System Configuration Checker requirements and blocking issues, and security considerations.
+Step 2: Install SQL Server 2008
+To install SQL Server 2008, run Setup using the SQL Server 2008 Installation Wizard or install from the command prompt. You can also add components to an instance of SQL Server 2008, or upgrade to SQL Server 2008 from a previous SQL Server version.
+Step 3: Configure Your SQL Server 2008 Installation
+After Setup completes the installation of SQL Server 2008, you can configure SQL Server using graphical and command prompt utilities (SQL Server 2008, 2008).
+
+Source code is primarily used as input to the process that produces an executable program. It is also sometimes used as a method of communicating algorithms between people. Author often find it helpful to review existing source code to learn about programming techniques. 
+
+Source code is a vital component in the activity of porting software to alternative computer platforms. Without the source code for a particular piece of software, portability is generally very expensive. Binary translation can sometimes be used to run a program when only the executable form rather than the source code is available. Decompilation can be used to generate source code, either assembly code or in a high level language. Programmers frequently adapt source code from one piece of software to use in other projects, a concept known as software reusability. In the present chapter, author has described the source code for proposed implementation of online Examination system.
